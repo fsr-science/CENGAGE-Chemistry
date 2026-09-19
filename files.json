@@ -355,6 +355,367 @@
           "mime": "application/pdf"
         }
       ]
+    },
+    {
+      "type": "folder",
+      "name": "IOC",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. General Principles and Processes of Isolation of Elements.pdf",
+          "path": "IOC/1. General Principles and Processes of Isolation of Elements.pdf",
+          "sha": "7ba40efae875f7f51fc74b1074621352759d96de",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "1. Periodic Classification of Elements and General Inorganic Chemistry.pdf",
+          "path": "IOC/1. Periodic Classification of Elements and General Inorganic Chemistry.pdf",
+          "sha": "426e7d05bbc687ec69d68e6db0ddf7de90de25d2",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Chemical Bonding and Molecular Structure.pdf",
+          "path": "IOC/2. Chemical Bonding and Molecular Structure.pdf",
+          "sha": "afb651b21bb3cd32205dc48fef286d283b3cff68",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. p-Block Group 15 Elements The Nitrogen Family.pdf",
+          "path": "IOC/2. p-Block Group 15 Elements The Nitrogen Family.pdf",
+          "sha": "574811b1cb804ea46cd27c99c267cac2ff15c134",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Hydrogen, Water and Hydrogen Peroxide.pdf",
+          "path": "IOC/3. Hydrogen, Water and Hydrogen Peroxide.pdf",
+          "sha": "0c0795aafe58ac43ed9bb4467cfb58c6eb8f96fc",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. p-Block Group 16 Elements The Oxygen Family.pdf",
+          "path": "IOC/3. p-Block Group 16 Elements The Oxygen Family.pdf",
+          "sha": "b195e6cce10856ac4eeef7c028668a4c347f8661",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. p-Block Group 17 Elements The Halogen Family.pdf",
+          "path": "IOC/4. p-Block Group 17 Elements The Halogen Family.pdf",
+          "sha": "cc03dca975d1194c9039446d9874c2a04a8145ed",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. s-Block Group 1 Elements Alkali Metals.pdf",
+          "path": "IOC/4. s-Block Group 1 Elements Alkali Metals.pdf",
+          "sha": "982153d77096fea64460b4b7bd556c38a456dc69",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. p-Block Group 18 Elements The Inert Family.pdf",
+          "path": "IOC/5. p-Block Group 18 Elements The Inert Family.pdf",
+          "sha": "a2bf425e2b16791cd75982d0638bfac8607709f7",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. s-Block Group 2 Elements Alkaline Earth Metals.pdf",
+          "path": "IOC/5. s-Block Group 2 Elements Alkaline Earth Metals.pdf",
+          "sha": "4ea7d45603c16a2cc03af5b1f6f96b118d0ca24e",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. d- and f-Block Elements.pdf",
+          "path": "IOC/6. d- and f-Block Elements.pdf",
+          "sha": "5927c507014547ddb570db33131d988d40a3ca58",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. p-Block Group 13 Elements The Boron Family.pdf",
+          "path": "IOC/6. p-Block Group 13 Elements The Boron Family.pdf",
+          "sha": "7f06c0b4e3115db13b21d73128474c67edd2db9b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Coordination Compounds.pdf",
+          "path": "IOC/7. Coordination Compounds.pdf",
+          "sha": "e0a339fd8b5083242f82b9b7e689d4f28b7f7de8",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. p-Block Group 14 Elements The Carbon Family.pdf",
+          "path": "IOC/7. p-Block Group 14 Elements The Carbon Family.pdf",
+          "sha": "11824202ac42c8bf578f989fc8c47a47e56a241a",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "8. Qualitative Inorganic Salt Analysis.pdf",
+          "path": "IOC/8. Qualitative Inorganic Salt Analysis.pdf",
+          "sha": "e1ecd22da98a2961d87d2d8111306a65bf7b598d",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "OC",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. Classification and Nomenclature of Organic Compounds.pdf",
+          "path": "OC/1. Classification and Nomenclature of Organic Compounds.pdf",
+          "sha": "b996a1153d2b781847f4f9b891b35fc85c470cba",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "1. Grignard Reagents and Organometallic Compounds.pdf",
+          "path": "OC/1. Grignard Reagents and Organometallic Compounds.pdf",
+          "sha": "2fc73aaa82d1a0eeab6a090e917a00a58a5ac185",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "10. Chemistry in Everyday Life.pdf",
+          "path": "OC/10. Chemistry in Everyday Life.pdf",
+          "sha": "9d1c02271da8a289a10409a5aeb7af26b6021022",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "10. Environmental Chemistry.pdf",
+          "path": "OC/10. Environmental Chemistry.pdf",
+          "sha": "f24bf08daaf24acb1c91cac84fcc730003c58204",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Purification of Organic Compounds and Qulitative and Quantitative Analysis.pdf",
+          "path": "OC/2. Purification of Organic Compounds and Qulitative and Quantitative Analysis.pdf",
+          "sha": "a2374efe1bcd9d85ffed038f099e9bf7b928c09f",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Reduction and Oxidation Reactions of Organic Compounds.pdf",
+          "path": "OC/2. Reduction and Oxidation Reactions of Organic Compounds.pdf",
+          "sha": "e4bde465846355c6c1bb33f636ae7c312a65aece",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Alkyl and Aryl Halides.pdf",
+          "path": "OC/3. Alkyl and Aryl Halides.pdf",
+          "sha": "e982e53d8b4d787cc84ec90730058b9ac0df1107",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Isomerism.pdf",
+          "path": "OC/3. Isomerism.pdf",
+          "sha": "7befc7063c46df990a870d14274cf8ddd176b410",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Alcohols, Phenols, and Ethers.pdf",
+          "path": "OC/4. Alcohols, Phenols, and Ethers.pdf",
+          "sha": "0903bb5d1fc41dc4b6a0502174b4781250b9759c",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. General Organic Chemistry.pdf",
+          "path": "OC/4. General Organic Chemistry.pdf",
+          "sha": "91328607b5325b3b247cd456c6cc95d2e229e557",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. Aliphatic and Aromatic Aldehydes and Ketones.pdf",
+          "path": "OC/5. Aliphatic and Aromatic Aldehydes and Ketones.pdf",
+          "sha": "cb9f0c6cec8dbd072c885ed2774f6c6b61a4f5b0",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. Organic Reaction Mechanism.pdf",
+          "path": "OC/5. Organic Reaction Mechanism.pdf",
+          "sha": "9fbf8a20bf2f8fb7cec89db29834929f94dc3168",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. Alkanes and Cycloalkanes.pdf",
+          "path": "OC/6. Alkanes and Cycloalkanes.pdf",
+          "sha": "5bfd678ee4fd1afd62f576981ef64e77d32b7dc9",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. Carboxylic Acids and Their Derivatives.pdf",
+          "path": "OC/6. Carboxylic Acids and Their Derivatives.pdf",
+          "sha": "281623422ae2cb46bea68bdd87f1f7e0f6bbd304",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Alkenes and Alkadienes.pdf",
+          "path": "OC/7. Alkenes and Alkadienes.pdf",
+          "sha": "277207d6481b395eb569d57a59a9b4697cc47feb",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Organic Compounds With Functional Group Containing Nitrogen.pdf",
+          "path": "OC/7. Organic Compounds With Functional Group Containing Nitrogen.pdf",
+          "sha": "af675fabaebf21919982eb9e2d72013a3b5e841d",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "8. Alkynes.pdf",
+          "path": "OC/8. Alkynes.pdf",
+          "sha": "da127cb7cd5e1e7fef68c919f5f77ab4b3abc20f",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "8. Synthetic and Natural Polymers.pdf",
+          "path": "OC/8. Synthetic and Natural Polymers.pdf",
+          "sha": "f46aa0cb566f902a27cbba0d50f7617d9db57377",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "9. Aromatic Hydrocarbons.pdf",
+          "path": "OC/9. Aromatic Hydrocarbons.pdf",
+          "sha": "e3b3357187aa91688c8d04f58c372ca302c047a6",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "9. Biomolecules.pdf",
+          "path": "OC/9. Biomolecules.pdf",
+          "sha": "411fbfa49529a8c4d83be27e7690b2c769a5d6f8",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "PC",
+      "children": [
+        {
+          "type": "file",
+          "name": "1. Solid State.pdf",
+          "path": "PC/1. Solid State.pdf",
+          "sha": "ea23ddcf3d14a22a5b5c081be1f833986d7d3f43",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "1. Some Basic Concepts and Mole Concept.pdf",
+          "path": "PC/1. Some Basic Concepts and Mole Concept.pdf",
+          "sha": "84201bd9f17d10644dbff8bc3b029b2d4e7c5ee9",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Redox Reactions.pdf",
+          "path": "PC/2. Redox Reactions.pdf",
+          "sha": "37a8da1a6a1c276bb998f6a7d53d0986ecba2ca5",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "2. Solutions.pdf",
+          "path": "PC/2. Solutions.pdf",
+          "sha": "829f7e0de62e05539e62d277342d045d80c38d9e",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Electrochemistry.pdf",
+          "path": "PC/3. Electrochemistry.pdf",
+          "sha": "7d59f117e9b743ae688e73bec751c5b50d8715b2",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "3. Stoichiometry.pdf",
+          "path": "PC/3. Stoichiometry.pdf",
+          "sha": "dbdb22954a9dbe04bc28c47da91444881c17d57d",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Atomic Structure.pdf",
+          "path": "PC/4. Atomic Structure.pdf",
+          "sha": "094333ab20a742934fcda078423037aff76bf21a",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "4. Chemical Kinetics.pdf",
+          "path": "PC/4. Chemical Kinetics.pdf",
+          "sha": "db98a80a5f2a37c64836af0d0c3de5afccb59478",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. States of Matter.pdf",
+          "path": "PC/5. States of Matter.pdf",
+          "sha": "e2eed490ad1739f250de01dc8220e4cf571c368f",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "5. Surface Chemistry.pdf",
+          "path": "PC/5. Surface Chemistry.pdf",
+          "sha": "a6eb6e7e12a6f92fee2258057ec539f29e7dfc48",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "6. Thermodynamics.pdf",
+          "path": "PC/6. Thermodynamics.pdf",
+          "sha": "83654964a97ed52f71f7d7ea26e6719fc0974939",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "7. Chemical Equilibrium.pdf",
+          "path": "PC/7. Chemical Equilibrium.pdf",
+          "sha": "e6b589b7f3168002ddc90df1d0ba04222caa40e1",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "8. Ionic Equilibrium.pdf",
+          "path": "PC/8. Ionic Equilibrium.pdf",
+          "sha": "b8a3d6b8da5893ba3d7e7691aa60571b0d097f27",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "README.md",
+      "path": "README.md",
+      "sha": "17055ac04a7ef5e65ccced777cdd731a2fd9c842",
+      "mime": "text/markdown"
     }
   ]
 }
