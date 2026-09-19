@@ -1,0 +1,360 @@
+{
+  "type": "folder",
+  "name": "CENGAGE-Chemistry",
+  "children": [
+    {
+      "type": "folder",
+      "name": "CENCM01-PHYCHEM",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM01-SOLID_STATE.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM01-SOLID_STATE.pdf",
+          "sha": "5f4c88acbbc7973b4e59fd8cea5dccb984a11e78",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM02-SOME_BASIC_CONCEPTS_AND_MOLE_CONCEPT.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM02-SOME_BASIC_CONCEPTS_AND_MOLE_CONCEPT.pdf",
+          "sha": "eee3f09e68ccd5a4327058fbb08d820d185324a7",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM03-REDOX_REACTIONS.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM03-REDOX_REACTIONS.pdf",
+          "sha": "4b23a4332ce3ecb87f3efcfe3c8ccafcfcc59ce6",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM04-SOLUTIONS.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM04-SOLUTIONS.pdf",
+          "sha": "aed4fb25a562d078b1a87f8c2f0d0b2500cbf43d",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM05-ELECTROCHEMISTRY.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM05-ELECTROCHEMISTRY.pdf",
+          "sha": "d9f11a5ee5eee9e1c728991e1ce6559bd902440f",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM06-STOICHIOMETRY.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM06-STOICHIOMETRY.pdf",
+          "sha": "499e39c5547e4031cd11ddf82665746c99015748",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM07-ATOMIC_STRUCTURE.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM07-ATOMIC_STRUCTURE.pdf",
+          "sha": "8750c1e0862b1b4ead0f00e6e281e936449a9005",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM08-CHEMICAL_KINETICS.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM08-CHEMICAL_KINETICS.pdf",
+          "sha": "16b92ec2a680743f6027c876f6f410e0e76507dc",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM09-STATES_OF_MATTER.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM09-STATES_OF_MATTER.pdf",
+          "sha": "0de45bedd1d31605172d7dc9ad6970ab6ba5c4ca",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM10-SURFACE_CHEMISTRY.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM10-SURFACE_CHEMISTRY.pdf",
+          "sha": "5495884d8919c214bce8ab917e761d05b995534d",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM11-THERMODYNAMICS.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM11-THERMODYNAMICS.pdf",
+          "sha": "2dbd66899f5035de5db1ed8816ab860e22bb937a",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM12-CHEMICAL_EQUILIBRIUM.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM12-CHEMICAL_EQUILIBRIUM.pdf",
+          "sha": "6d866ff2949eccf619193ddadb9a540a48d4d449",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM01-PHYCHEM13-IONIC_EQUILIBRIUM.pdf",
+          "path": "CENCM01-PHYCHEM/CENCM01-PHYCHEM13-IONIC_EQUILIBRIUM.pdf",
+          "sha": "f1a1ba24c43bf1f526c4eb653b934daf58e43d19",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENCM02-INORGCHEM",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM01-GENERAL_PRINCIPLES_AND_PROCESSES_OF_ISOLATION_OF_ELEMENTS.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM01-GENERAL_PRINCIPLES_AND_PROCESSES_OF_ISOLATION_OF_ELEMENTS.pdf",
+          "sha": "0cb5ab557a5cd23984a594cf82478dc690694e36",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM02-PERIODIC_CLASSIFICATION_OF_ELEMENTS_AND_GENERAL_INORGANIC_CHEMISTRY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM02-PERIODIC_CLASSIFICATION_OF_ELEMENTS_AND_GENERAL_INORGANIC_CHEMISTRY.pdf",
+          "sha": "1aa24b55841f980e97df9b49212fdf417298e329",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM03-CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM03-CHEMICAL_BONDING_AND_MOLECULAR_STRUCTURE.pdf",
+          "sha": "58d4b792c0773ff763cf83e4978a5a88b8d6de52",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM04-P_BLOCK_GROUP_15_ELEMENTS_THE_NITROGEN_FAMILY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM04-P_BLOCK_GROUP_15_ELEMENTS_THE_NITROGEN_FAMILY.pdf",
+          "sha": "2e5dfe80410c5d0c10ede5f3ec217fb432e5753b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM05-HYDROGEN_WATER_AND_HYDROGEN_PEROXIDE.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM05-HYDROGEN_WATER_AND_HYDROGEN_PEROXIDE.pdf",
+          "sha": "ef5d5705bc0c273be1c4d4ebb6055d6800b143cb",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM06-P_BLOCK_GROUP_16_ELEMENTS_THE_OXYGEN_FAMILY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM06-P_BLOCK_GROUP_16_ELEMENTS_THE_OXYGEN_FAMILY.pdf",
+          "sha": "1e5150ed0f6f4d454a8829ad50af0d3878c9159b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM07-P_BLOCK_GROUP_17_ELEMENTS_THE_HALOGEN_FAMILY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM07-P_BLOCK_GROUP_17_ELEMENTS_THE_HALOGEN_FAMILY.pdf",
+          "sha": "e5279157e7fa49e37c574fccd15d272e0bddda60",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM08-S_BLOCK_GROUP_1_ELEMENTS_ALKALI_METALS.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM08-S_BLOCK_GROUP_1_ELEMENTS_ALKALI_METALS.pdf",
+          "sha": "a9930a10fa95bed43184e44b34fc5f144abcbdd5",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM09-P_BLOCK_GROUP_18_ELEMENTS_THE_INERT_FAMILY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM09-P_BLOCK_GROUP_18_ELEMENTS_THE_INERT_FAMILY.pdf",
+          "sha": "905f2b64fa9cd94734efe76d0b3e7d2bc3cc4a8b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM10-S_BLOCK_GROUP_2_ELEMENTS_ALKALINE_EARTH_METALS.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM10-S_BLOCK_GROUP_2_ELEMENTS_ALKALINE_EARTH_METALS.pdf",
+          "sha": "61c7b32fc817027cf0c7b806ab6bf824128aa9c2",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM11-D_AND_F_BLOCK_ELEMENTS.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM11-D_AND_F_BLOCK_ELEMENTS.pdf",
+          "sha": "baebcec8f0f24147f27ea529788e9fcec48d7210",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM12-P_BLOCK_GROUP_13_ELEMENTS_THE_BORON_FAMILY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM12-P_BLOCK_GROUP_13_ELEMENTS_THE_BORON_FAMILY.pdf",
+          "sha": "d998b4717d6d1aa4a9815084d7dbb123e0755ef1",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM13-COORDINATION_COMPOUNDS.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM13-COORDINATION_COMPOUNDS.pdf",
+          "sha": "38899f0c86126199f366e5800d706997fa675eb0",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM14-P_BLOCK_GROUP_14_ELEMENTS_THE_CARBON_FAMILY.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM14-P_BLOCK_GROUP_14_ELEMENTS_THE_CARBON_FAMILY.pdf",
+          "sha": "46c252fcc3ad051fd5066750d97fef87b5735255",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM02-INORGCHEM15-QUALITATIVE_INORGANIC_SALT_ANALYSIS.pdf",
+          "path": "CENCM02-INORGCHEM/CENCM02-INORGCHEM15-QUALITATIVE_INORGANIC_SALT_ANALYSIS.pdf",
+          "sha": "9a03e4c6272eb4b441b126e473d522d9ea361ac7",
+          "mime": "application/pdf"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "CENCM03-ORGCHEM",
+      "children": [
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM01-CLASSIFICATION_AND_NOMENCLATURE_OF_ORGANIC_COMPOUNDS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM01-CLASSIFICATION_AND_NOMENCLATURE_OF_ORGANIC_COMPOUNDS.pdf",
+          "sha": "f8a5176871878d07ef45ec9c959c7760643631ec",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM02-GRIGNARD_REAGENTS_AND_ORGANOMETALLIC_COMPOUNDS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM02-GRIGNARD_REAGENTS_AND_ORGANOMETALLIC_COMPOUNDS.pdf",
+          "sha": "af40cc440540fc87f293cd596fbaf6d459d7228f",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM03-CHEMISTRY_IN_EVERYDAY_LIFE.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM03-CHEMISTRY_IN_EVERYDAY_LIFE.pdf",
+          "sha": "58219e89a66d70f069988964552bdf15bdccbf43",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM04-ENVIRONMENTAL_CHEMISTRY.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM04-ENVIRONMENTAL_CHEMISTRY.pdf",
+          "sha": "519ed8a94d54c53f93b19c8b1eaccd82cc545168",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM05-PURIFICATION_OF_ORGANIC_COMPOUNDS_AND_QULITATIVE_AND_QUANTITATIVE_ANALYSIS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM05-PURIFICATION_OF_ORGANIC_COMPOUNDS_AND_QULITATIVE_AND_QUANTITATIVE_ANALYSIS.pdf",
+          "sha": "700f840870191de44199e126a855cec4a4c688cf",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM06-REDUCTION_AND_OXIDATION_REACTIONS_OF_ORGANIC_COMPOUNDS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM06-REDUCTION_AND_OXIDATION_REACTIONS_OF_ORGANIC_COMPOUNDS.pdf",
+          "sha": "e2c88bff0ef198369f05b202a03a5192f682b76b",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM07-ALKYL_AND_ARYL_HALIDES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM07-ALKYL_AND_ARYL_HALIDES.pdf",
+          "sha": "b9f3fec4c40cc7f08bab40615f6b386c603ab5db",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM08-ISOMERISM.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM08-ISOMERISM.pdf",
+          "sha": "00b307000f5250c035b0233c76d7cc64c1781c59",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM09-ALCOHOLS_PHENOLS_AND_ETHERS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM09-ALCOHOLS_PHENOLS_AND_ETHERS.pdf",
+          "sha": "b6b9382f04ddf474fa1fec2275261690827e71eb",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM10-GENERAL_ORGANIC_CHEMISTRY.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM10-GENERAL_ORGANIC_CHEMISTRY.pdf",
+          "sha": "c724d28e45f5038a7ac897db07641338cd8b7476",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM11-ALIPHATIC_AND_AROMATIC_ALDEHYDES_AND_KETONES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM11-ALIPHATIC_AND_AROMATIC_ALDEHYDES_AND_KETONES.pdf",
+          "sha": "1ae537fee4e9e5e8e596415314029616d428e4c0",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM12-ORGANIC_REACTION_MECHANISM.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM12-ORGANIC_REACTION_MECHANISM.pdf",
+          "sha": "f250c3d0e4011c5a69ac774b58150e68d33bf9a7",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM13-ALKANES_AND_CYCLOALKANES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM13-ALKANES_AND_CYCLOALKANES.pdf",
+          "sha": "a037602cc63985d135842ea573e727e54f96031d",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM14-CARBOXYLIC_ACIDS_AND_THEIR_DERIVATIVES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM14-CARBOXYLIC_ACIDS_AND_THEIR_DERIVATIVES.pdf",
+          "sha": "f384ede38238b38a89594fa0930f9bfdf2295257",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM15-ALKENES_AND_ALKADIENES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM15-ALKENES_AND_ALKADIENES.pdf",
+          "sha": "c444dac9bdda94b001a7bcf4f406a5b26b64e671",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM16-ORGANIC_COMPOUNDS_WITH_FUNCTIONAL_GROUP_CONTAINING_NITROGEN.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM16-ORGANIC_COMPOUNDS_WITH_FUNCTIONAL_GROUP_CONTAINING_NITROGEN.pdf",
+          "sha": "9108894ecc0958a57c687c752d1f1bfff533c65e",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM17-ALKYNES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM17-ALKYNES.pdf",
+          "sha": "68f5e5adb6b92851d9d362fc3420d37d065d5a30",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM18-SYNTHETIC_AND_NATURAL_POLYMERS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM18-SYNTHETIC_AND_NATURAL_POLYMERS.pdf",
+          "sha": "85d0d2492bcf5eb64e8ccee7fc1c1f6eca0329e6",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM19-AROMATIC_HYDROCARBONS.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM19-AROMATIC_HYDROCARBONS.pdf",
+          "sha": "1c759c2d3330af261febcac1b91485dce80498a8",
+          "mime": "application/pdf"
+        },
+        {
+          "type": "file",
+          "name": "CENCM03-ORGCHEM20-BIOMOLECULES.pdf",
+          "path": "CENCM03-ORGCHEM/CENCM03-ORGCHEM20-BIOMOLECULES.pdf",
+          "sha": "ab0d78063dd9f0d34fd6e109bc89f66d3794db0c",
+          "mime": "application/pdf"
+        }
+      ]
+    }
+  ]
+}
